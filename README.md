@@ -1,19 +1,25 @@
-## Hi there 👋
+## Oi eu sou JoãoV.
 
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e também estou cursando Técnico em Informática. Tenho conhecimento em HTML, CSS e Python e atualmente estou aprofundando meus estudos em JavaScript e Django.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitao-anao)](https://github.com/anuraghazra/github-readme-stats)
+Interesses
 
-<!--
-**cleitao-anao/cleitao-anao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Desenvolvimento Web (Front-end e Back-end)
+- Programação com Python e JavaScript
+- Aprimoramento em frameworks e bibliotecas
 
-Here are some ideas to get you started:
+O que estou estudando agora?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript para desenvolvimento web interativo
+- Django para aplicações web robustas
+  
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitao-anao&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitao-anao&layout=compact&show_icons=true&theme=tokyonight)
+
+<div>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
