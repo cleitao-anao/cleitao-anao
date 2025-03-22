@@ -1,6 +1,6 @@
 ## Oi eu sou João Victor
 
-## Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática | Desenvolvedor em formação
+## Estudante de ADS | Técnico em Informática | Desenvolvedor em formação
 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e também estou cursando Técnico em Informática. Tenho conhecimento em HTML, CSS e Python e atualmente estou aprofundando meus estudos em JavaScript e Django.
