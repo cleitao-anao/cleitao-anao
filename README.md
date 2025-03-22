@@ -16,12 +16,15 @@ O que estou estudando agora?
 - JavaScript para desenvolvimento web interativo
 - Django para aplicações web robustas
   
+
+#
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitao-anao&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitao-anao&layout=compact&show_icons=true&theme=tokyonight)
 
-
+#
 
 <div>
   <h3>Experiencias</h3>
