@@ -1,5 +1,5 @@
 <div>
-## Oi eu sou João Victor
+<h1>Oi eu sou João Victor</h1> 
 
 <h2>Estudante de ADS | Técnico em Informática | Desenvolvedor em formação</h2>   
 </div>
