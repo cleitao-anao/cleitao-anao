@@ -1,11 +1,6 @@
 
-[<img src="[https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif](https://github.com/cleitao-anao/cleitao-anao/blob/main/portfolio.gif)" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+<img src="https://github.com/cleitao-anao/cleitao-anao/blob/main/portfolio.gif" >
 
-<div>
-<h1>Oi eu sou João Victor</h1> 
-
-<h2>Estudante de ADS | Técnico em Informática | Desenvolvedor em formação</h2>   
-</div>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e também estou cursando Técnico em Informática. Tenho conhecimento em HTML, CSS e Python e atualmente estou aprofundando meus estudos em JavaScript e Django.
 
