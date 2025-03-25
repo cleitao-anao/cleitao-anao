@@ -1,6 +1,6 @@
-
 <img src="https://github.com/cleitao-anao/cleitao-anao/blob/main/portfolio.gif" >
 
+##
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e também estou cursando Técnico em Informática. Tenho conhecimento em HTML, CSS e Python e atualmente estou aprofundando meus estudos em JavaScript e Django.
 
