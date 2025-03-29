@@ -1,5 +1,5 @@
 <div  align="center" style="border-radius: 10px;" alt="GIF estilizado">
-  <img src="https://github.com/cleitao-anao/cleitao-anao/blob/main/portfolio.gif" >
+  <img src="https://github.com/cleitao-anao/cleitao-anao/blob/main/portfolioG.gif" >
 </div>
 
 
