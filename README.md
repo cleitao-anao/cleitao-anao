@@ -24,8 +24,8 @@ O que estou estudando agora?
 <br>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cleitao-anao&show_icons=true&theme=tokyonight"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitao-anao&layout=compact&show_icons=true&theme=tokyonight&pt-br"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=cleitao-anao&show_icons=true&theme=tokyonight"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitao-anao&layout=compact&show_icons=true&theme=tokyonight&pt-br"/>
 </a>
 
 
